@@ -32,8 +32,8 @@ public class MainActivity extends AppCompatActivity {
     String z;
     double n,k;
 
-    //Url="http://api.currencylayer.com/live?access_key=YOUR API KEY FOR 'currencylayer.com' "
-    String Url=getString(R.string.Url);
+    //USE YOUR API KEY FROM currencylayer.com
+    String Url="http://api.currencylayer.com/live?access_key=USE YOUR API KEY FROM currencylayer.com" ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
