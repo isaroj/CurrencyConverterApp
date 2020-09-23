@@ -5,4 +5,4 @@ A small app that will convert INR to fifteen currencies by using real time curre
 * Google Firebase is used for user Authentication. 
 * In this currency converter live data will be fetched to give the accurate and updated value each time you want to convert.
 * An API is used for this purpose.
- [CurrencyConverterApp] (https://github.com/isaroj/CurrencyConverterApp/raw/master/app-debug.apk)
+* [CurrencyConverterApp] (https://github.com/isaroj/CurrencyConverterApp/raw/master/app-debug.apk)
